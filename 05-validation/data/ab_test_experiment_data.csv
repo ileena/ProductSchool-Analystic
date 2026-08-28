@@ -1,0 +1,21 @@
+User ID,Version,Traffic Source,Session Duration (s),Conversion,Feature Engagement (%)
+1,A,Organic,200,0,45
+2,A,Paid,150,1,60
+3,A,Referral,180,1,55
+4,A,Organic,220,1,70
+5,A,Paid,140,0,40
+6,A,Referral,160,1,65
+7,A,Organic,230,1,72
+8,A,Paid,135,0,38
+9,A,Referral,175,1,50
+10,A,Organic,210,1,68
+11,B,Organic,300,1,75
+12,B,Paid,170,0,42
+13,B,Referral,190,1,65
+14,B,Organic,320,1,80
+15,B,Paid,165,0,45
+16,B,Referral,155,0,35
+17,B,Organic,240,1,78
+18,B,Paid,130,0,30
+19,B,Referral,180,1,58
+20,B,Organic,220,1,71
