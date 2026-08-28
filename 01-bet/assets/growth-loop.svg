@@ -1,1 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 650" width="960" height="650" font-family="Inter, Helvetica, Arial, sans-serif"><rect width="960" height="650" fill="#FFFFFF"/><text x="40" y="52" font-size="23" font-weight="700" fill="#0F2540">FinWise Growth Loop — The Import Is the Engine</text><text x="40" y="78" font-size="14" fill="#64748B">A compounding motion that paid acquisition cannot buy — and cannot substitute for.</text><ellipse cx="480" cy="335" rx="305" ry="196" fill="none" stroke="#CBD5E1" stroke-width="2.5" stroke-dasharray="7 7"/><g transform="translate(659.3,176.4) rotate(25)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g><g transform="translate(770.1,395.6) rotate(116.8)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g><g transform="translate(480,531) rotate(180)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g><g transform="translate(189.9,395.6) rotate(-116.8)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g><g transform="translate(300.7,176.4) rotate(-25)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g><circle cx="480" cy="335" r="104" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/><text x="480" y="301" font-size="11" font-weight="700" fill="#0E9F8E" text-anchor="middle" letter-spacing="1.6">COMPOUNDING</text><text x="480" y="327" font-size="14.5" fill="#0F2540" text-anchor="middle">Every import sharpens</text><text x="480" y="348" font-size="14.5" fill="#0F2540" text-anchor="middle">the model that produces</text><text x="480" y="369" font-size="14.5" fill="#0F2540" text-anchor="middle">the next first output.</text><text x="480" y="391" font-size="11.5" fill="#64748B" text-anchor="middle" font-style="italic">data network effect</text><rect x="353" y="106" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/><circle cx="379" cy="139" r="14" fill="#2563EB"/><text x="379" y="144" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text><text x="401" y="135" font-size="14.5" font-weight="700" fill="#0F2540">Trial imports real data</text><text x="401" y="155" font-size="12.5" fill="#64748B">their books, not a demo</text><rect x="643.1" y="241.4" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/><circle cx="669.1" cy="274.4" r="14" fill="#2563EB"/><text x="669.1" y="279.4" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text><text x="691.1" y="270.4" font-size="14.5" font-weight="700" fill="#0F2540">First modeling output</text><text x="691.1" y="290.4" font-size="12.5" fill="#64748B">a decision, not a dashboard</text><rect x="532.3" y="460.6" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/><circle cx="558.3" cy="493.6" r="14" fill="#2563EB"/><text x="558.3" y="498.6" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text><text x="580.3" y="489.6" font-size="14.5" font-weight="700" fill="#0F2540">Forecast gets shared</text><text x="580.3" y="509.6" font-size="12.5" fill="#64748B">accountant, partner, bank</text><rect x="173.7" y="460.6" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/><circle cx="199.7" cy="493.6" r="14" fill="#2563EB"/><text x="199.7" y="498.6" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text><text x="221.7" y="489.6" font-size="14.5" font-weight="700" fill="#0F2540">Collaborators sign up</text><text x="221.7" y="509.6" font-size="12.5" fill="#64748B">trials at near-zero CAC</text><rect x="62.9" y="241.4" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/><circle cx="88.9" cy="274.4" r="14" fill="#2563EB"/><text x="88.9" y="279.4" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text><text x="110.9" y="270.4" font-size="14.5" font-weight="700" fill="#0F2540">More data imported</text><text x="110.9" y="290.4" font-size="12.5" fill="#64748B">sharper models and benchmarks</text><text x="40" y="622" font-size="12.5" fill="#64748B">Gate: step 1. 72% of trials never import their data — so for 72% of users the loop never starts at all. Everything in this repo aims there.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 650" width="960" height="650" font-family="Inter, Helvetica, Arial, sans-serif">
+<rect width="960" height="650" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="23" font-weight="700" fill="#0F2540">FinWise Growth Loop — The Import Is the Engine</text>
+<text x="40" y="78" font-size="14" fill="#64748B">A compounding motion that paid acquisition cannot buy — and cannot substitute for.</text>
+<ellipse cx="480" cy="335" rx="305" ry="196" fill="none" stroke="#CBD5E1" stroke-width="2.5" stroke-dasharray="7 7"/>
+<g transform="translate(659.3,176.4) rotate(25.0)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g>
+<g transform="translate(770.1,395.6) rotate(116.8)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g>
+<g transform="translate(480.0,531.0) rotate(180.0)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g>
+<g transform="translate(189.9,395.6) rotate(-116.8)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g>
+<g transform="translate(300.7,176.4) rotate(-25.0)"><path d="M -9 -7 L 9 0 L -9 7 Z" fill="#2563EB"/></g>
+<circle cx="480" cy="335" r="104" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+<text x="480" y="301" font-size="11" font-weight="700" fill="#0E9F8E" text-anchor="middle" letter-spacing="1.6">COMPOUNDING</text>
+<text x="480" y="327" font-size="14.5" fill="#0F2540" text-anchor="middle">Every import sharpens</text>
+<text x="480" y="348" font-size="14.5" fill="#0F2540" text-anchor="middle">the model that produces</text>
+<text x="480" y="369" font-size="14.5" fill="#0F2540" text-anchor="middle">the next first output.</text>
+<text x="480" y="391" font-size="11.5" fill="#64748B" text-anchor="middle" font-style="italic">data network effect</text>
+<rect x="353.0" y="106.0" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<circle cx="379.0" cy="139.0" r="14" fill="#2563EB"/>
+<text x="379.0" y="144.0" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<text x="401.0" y="135.0" font-size="14.5" font-weight="700" fill="#0F2540">Trial imports real data</text>
+<text x="401.0" y="155.0" font-size="12.5" fill="#64748B">their books, not a demo</text>
+<rect x="643.1" y="241.4" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<circle cx="669.1" cy="274.4" r="14" fill="#2563EB"/>
+<text x="669.1" y="279.4" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+<text x="691.1" y="270.4" font-size="14.5" font-weight="700" fill="#0F2540">First modeling output</text>
+<text x="691.1" y="290.4" font-size="12.5" fill="#64748B">a decision, not a dashboard</text>
+<rect x="532.3" y="460.6" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<circle cx="558.3" cy="493.6" r="14" fill="#2563EB"/>
+<text x="558.3" y="498.6" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="580.3" y="489.6" font-size="14.5" font-weight="700" fill="#0F2540">Forecast gets shared</text>
+<text x="580.3" y="509.6" font-size="12.5" fill="#64748B">accountant, partner, bank</text>
+<rect x="173.7" y="460.6" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<circle cx="199.7" cy="493.6" r="14" fill="#2563EB"/>
+<text x="199.7" y="498.6" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+<text x="221.7" y="489.6" font-size="14.5" font-weight="700" fill="#0F2540">Collaborators sign up</text>
+<text x="221.7" y="509.6" font-size="12.5" fill="#64748B">trials at near-zero CAC</text>
+<rect x="62.9" y="241.4" width="254" height="66" rx="11" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<circle cx="88.9" cy="274.4" r="14" fill="#2563EB"/>
+<text x="88.9" y="279.4" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">5</text>
+<text x="110.9" y="270.4" font-size="14.5" font-weight="700" fill="#0F2540">More data imported</text>
+<text x="110.9" y="290.4" font-size="12.5" fill="#64748B">sharper models and benchmarks</text>
+<text x="40" y="622" font-size="12.5" fill="#64748B">Gate: step 1. 72% of trials never import their data — so for 72% of users the loop never starts at all. Everything in this repo aims there.</text>
+</svg>
