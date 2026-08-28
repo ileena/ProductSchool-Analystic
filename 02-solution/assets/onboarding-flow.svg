@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1468 728" width="1468" height="728" font-family="Inter, Helvetica, Arial, sans-serif">
+<rect width="1468" height="728" fill="#FFFFFF"/>
+<text x="44" y="52" font-size="24" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">FinWise Onboarding — Decision-First Trial Flow (v2 prototype)</text>
+<text x="44" y="80" font-size="13.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Five screens from sign-up to first modeling output. Every screen exists to move the user closer to importing their own books; anything else was cut.</text>
+<rect x="44" y="126" width="244" height="480" rx="20" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+<rect x="45.5" y="127.5" width="241" height="28" rx="18" fill="#F8FAFC"/>
+<text x="60" y="146" font-size="10" fill="#64748B" font-weight="700" text-anchor="start" font-style="normal">FinWise</text>
+<text x="272" y="146" font-size="9" fill="#64748B" font-weight="400" text-anchor="end" font-style="normal">Trial · day 1</text>
+<rect x="44" y="90" width="92" height="24" rx="12" fill="#2563EB"/>
+<text x="90" y="106" font-size="10.5" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal" letter-spacing="1.1">SCREEN 1</text>
+<text x="146" y="106" font-size="12.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Frame it</text>
+<text x="44" y="632" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">The trial opens on the user's problem,</text>
+<text x="44" y="649" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">not on our feature list. Their answer</text>
+<text x="44" y="666" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">shapes the output on screen 4.</text>
+<text x="62" y="188" font-size="14.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">What decision are you</text>
+<text x="62" y="207" font-size="14.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">trying to make?</text>
+<text x="62" y="228" font-size="10.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">We'll model that first.</text>
+<rect x="60" y="248" width="212" height="48" rx="10" fill="#EFF6FF" stroke="#2563EB" stroke-width="2"/>
+<text x="74" y="269" font-size="11.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Can I make payroll?</text>
+<text x="74" y="285" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">next 90 days</text>
+<circle cx="254" cy="272" r="9" fill="#2563EB"/>
+<path d="M 249 272 l 3.5 3.5 l 6 -7" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="60" y="308" width="212" height="48" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="74" y="329" font-size="11.5" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Can I afford to hire?</text>
+<text x="74" y="345" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">scenario planning</text>
+<rect x="60" y="368" width="212" height="48" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="74" y="389" font-size="11.5" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Where is margin leaking?</text>
+<text x="74" y="405" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">cost breakdown</text>
+<rect x="60" y="540" width="212" height="42" rx="10" fill="#2563EB"/>
+<text x="166.0" y="566" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal">Continue</text>
+<rect x="328" y="126" width="244" height="480" rx="20" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+<rect x="329.5" y="127.5" width="241" height="28" rx="18" fill="#F8FAFC"/>
+<text x="344" y="146" font-size="10" fill="#64748B" font-weight="700" text-anchor="start" font-style="normal">FinWise</text>
+<text x="556" y="146" font-size="9" fill="#64748B" font-weight="400" text-anchor="end" font-style="normal">Trial · day 1</text>
+<rect x="328" y="90" width="92" height="24" rx="12" fill="#2563EB"/>
+<text x="374" y="106" font-size="10.5" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal" letter-spacing="1.1">SCREEN 2</text>
+<text x="430" y="106" font-size="12.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">The ask</text>
+<text x="328" y="632" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">The import is the gate, so it gets the</text>
+<text x="328" y="649" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">whole screen. Paths are ranked by speed,</text>
+<text x="328" y="666" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">and the trust objection is answered here.</text>
+<text x="346" y="188" font-size="14.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">To answer that, we need</text>
+<text x="346" y="207" font-size="14.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">90 days of your books</text>
+<rect x="344" y="226" width="212" height="48" rx="10" fill="#ECFDF5" stroke="#0E9F8E" stroke-width="2"/>
+<text x="358" y="247" font-size="11" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Connect QuickBooks / Xero</text>
+<text x="358" y="263" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">30 seconds · recommended</text>
+<rect x="344" y="286" width="212" height="48" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="358" y="307" font-size="11" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Upload a bank CSV</text>
+<text x="358" y="323" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">about 2 minutes</text>
+<rect x="344" y="346" width="212" height="48" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="358" y="367" font-size="11" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Start with sample data</text>
+<text x="358" y="383" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">models someone else's business</text>
+<rect x="344" y="508" width="212" height="66" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="356" y="530" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Read-only access. SOC 2 Type II.</text>
+<text x="356" y="546" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">We never move money. Delete your</text>
+<text x="356" y="562" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">data any time, in one click.</text>
+<text x="450.0" y="596" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="middle" font-style="italic">Sample data is always available later</text>
+<rect x="612" y="126" width="244" height="480" rx="20" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+<rect x="613.5" y="127.5" width="241" height="28" rx="18" fill="#F8FAFC"/>
+<text x="628" y="146" font-size="10" fill="#64748B" font-weight="700" text-anchor="start" font-style="normal">FinWise</text>
+<text x="840" y="146" font-size="9" fill="#64748B" font-weight="400" text-anchor="end" font-style="normal">Trial · day 1</text>
+<rect x="612" y="90" width="92" height="24" rx="12" fill="#2563EB"/>
+<text x="658" y="106" font-size="10.5" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal" letter-spacing="1.1">SCREEN 3</text>
+<text x="714" y="106" font-size="12.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Pay out early</text>
+<text x="612" y="632" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">The wait is turned into progress the user</text>
+<text x="612" y="649" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">can watch. Value starts accruing before</text>
+<text x="612" y="666" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">the import has even finished.</text>
+<text x="630" y="188" font-size="14" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Building your forecast…</text>
+<rect x="628" y="204" width="212" height="12" rx="6" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.4"/>
+<rect x="628" y="204" width="144.16" height="12" rx="6" fill="#0E9F8E"/>
+<text x="630" y="232" font-size="10.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">68% · 14 months of transactions</text>
+<circle cx="640" cy="254" r="7" fill="#0E9F8E"/>
+<path d="M 636.5 254 l 2.5 2.5 l 4.5 -5" stroke="#FFFFFF" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="656" y="258" font-size="11" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Transactions read</text>
+<circle cx="640" cy="284" r="7" fill="#0E9F8E"/>
+<path d="M 636.5 284 l 2.5 2.5 l 4.5 -5" stroke="#FFFFFF" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="656" y="288" font-size="11" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Recurring costs found</text>
+<circle cx="640" cy="314" r="7" fill="#0E9F8E"/>
+<path d="M 636.5 314 l 2.5 2.5 l 4.5 -5" stroke="#FFFFFF" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="656" y="318" font-size="11" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Invoices matched</text>
+<circle cx="640" cy="344" r="7" fill="#E2E8F0"/>
+<text x="656" y="348" font-size="11" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Forecast assembling</text>
+<rect x="628" y="384" width="212" height="88" rx="10" fill="#FFF7ED" stroke="#D97706" stroke-width="1.4"/>
+<text x="640" y="406" font-size="9.5" fill="#D97706" font-weight="700" text-anchor="start" font-style="normal" letter-spacing="1.2">ALREADY SPOTTED</text>
+<text x="640" y="430" font-size="20" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">$14,200</text>
+<text x="640" y="450" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">in invoices overdue by 30+ days</text>
+<text x="734.0" y="590" font-size="10" fill="#64748B" font-weight="400" text-anchor="middle" font-style="normal">Keep this tab open — about 40 seconds left</text>
+<rect x="896" y="126" width="244" height="480" rx="20" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+<rect x="897.5" y="127.5" width="241" height="28" rx="18" fill="#F8FAFC"/>
+<text x="912" y="146" font-size="10" fill="#64748B" font-weight="700" text-anchor="start" font-style="normal">FinWise</text>
+<text x="1124" y="146" font-size="9" fill="#64748B" font-weight="400" text-anchor="end" font-style="normal">Trial · day 1</text>
+<rect x="896" y="90" width="92" height="24" rx="12" fill="#2563EB"/>
+<text x="942" y="106" font-size="10.5" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal" letter-spacing="1.1">SCREEN 4</text>
+<text x="998" y="106" font-size="12.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">The Aha</text>
+<text x="896" y="632" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Their business, their number, one clear</text>
+<text x="896" y="649" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">risk. This is the North Star event and the</text>
+<text x="896" y="666" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">moment the trial earns the conversion.</text>
+<text x="914" y="186" font-size="13.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Your 13-week cash view</text>
+<text x="914" y="203" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Based on your books, not a template</text>
+<rect x="914" y="214" width="208" height="108" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.4"/>
+<line x1="922" y1="280.96" x2="1114" y2="280.96" stroke="#64748B" stroke-width="1" stroke-dasharray="3 3"/>
+<polyline points="924.0,240.5 939.7,245.9 955.3,248.6 971.0,255.3 986.7,258.0 1002.3,264.8 1018.0,270.2 1033.7,276.9 1049.3,287.7 1065.0,295.8 1080.7,302.6 1096.3,306.6 1112.0,313.4" fill="none" stroke="#2563EB" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="1049.3333333333333" y1="220" x2="1049.3333333333333" y2="316" stroke="#DC2626" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="1114" y="232" font-size="9.5" fill="#DC2626" font-weight="700" text-anchor="end" font-style="normal">week 9</text>
+<text x="922" y="294.96" font-size="9" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">$0</text>
+<rect x="912" y="332" width="212" height="84" rx="10" fill="#FEF2F2" stroke="#DC2626" stroke-width="2"/>
+<text x="924" y="354" font-size="9.5" fill="#DC2626" font-weight="700" text-anchor="start" font-style="normal" letter-spacing="1.2">THE ANSWER</text>
+<text x="924" y="374" font-size="11.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">You go cash-negative in</text>
+<text x="924" y="390" font-size="11.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">week 9 — unless the $14,200</text>
+<text x="924" y="406" font-size="11.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">overdue is collected.</text>
+<text x="914" y="438" font-size="10.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Payroll clears through week 8.</text>
+<rect x="912" y="540" width="212" height="42" rx="10" fill="#0E9F8E"/>
+<text x="1018.0" y="566" font-size="11.5" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal">Model the collection scenario</text>
+<rect x="1180" y="126" width="244" height="480" rx="20" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+<rect x="1181.5" y="127.5" width="241" height="28" rx="18" fill="#F8FAFC"/>
+<text x="1196" y="146" font-size="10" fill="#64748B" font-weight="700" text-anchor="start" font-style="normal">FinWise</text>
+<text x="1408" y="146" font-size="9" fill="#64748B" font-weight="400" text-anchor="end" font-style="normal">Trial · day 1</text>
+<rect x="1180" y="90" width="92" height="24" rx="12" fill="#2563EB"/>
+<text x="1226" y="106" font-size="10.5" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal" letter-spacing="1.1">SCREEN 5</text>
+<text x="1282" y="106" font-size="12.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Loop it</text>
+<text x="1180" y="632" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">One action, and it is the sharing step of</text>
+<text x="1180" y="649" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">the M1 growth loop. The accountant seat</text>
+<text x="1180" y="666" font-size="11.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">is free on purpose, not as a giveaway.</text>
+<text x="1198" y="188" font-size="14.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Who else needs to</text>
+<text x="1198" y="207" font-size="14.5" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">see this?</text>
+<text x="1198" y="228" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Most owners send this to the person</text>
+<text x="1198" y="243" font-size="10" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">who chases the invoices.</text>
+<rect x="1196" y="258" width="212" height="44" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="1210" y="278" font-size="11" fill="#0F2540" font-weight="700" text-anchor="start" font-style="normal">Invite your accountant</text>
+<text x="1210" y="293" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">free seat, always</text>
+<rect x="1196" y="312" width="212" height="44" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="1210" y="332" font-size="11" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Invite a co-founder</text>
+<text x="1210" y="347" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">full access</text>
+<rect x="1196" y="366" width="212" height="44" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.4"/>
+<text x="1210" y="386" font-size="11" fill="#0F2540" font-weight="400" text-anchor="start" font-style="normal">Export as PDF</text>
+<text x="1210" y="401" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">for the bank</text>
+<rect x="1196" y="428" width="212" height="44" rx="10" fill="#ECFDF5" stroke="#0E9F8E" stroke-width="1.4"/>
+<text x="1208" y="448" font-size="11" fill="#0E9F8E" font-weight="700" text-anchor="start" font-style="normal">Forecast confidence 94%</text>
+<text x="1208" y="463" font-size="9.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">Refresh weekly to keep it there.</text>
+<rect x="1196" y="540" width="212" height="42" rx="10" fill="#2563EB"/>
+<text x="1302.0" y="566" font-size="12" fill="#FFFFFF" font-weight="700" text-anchor="middle" font-style="normal">Send to my accountant</text>
+<text x="44" y="698" font-size="12.5" fill="#64748B" font-weight="400" text-anchor="start" font-style="normal">North Star event fires on screen 4: modeling_output_viewed, preceded by data_import_succeeded. The share of trials reaching it within 48h is the primary metric of the M5 experiment.</text>
+</svg>
