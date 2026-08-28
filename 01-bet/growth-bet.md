@@ -49,7 +49,7 @@ FinWise Co. is a B2B SaaS company selling financial-management software to small
 
 ## Growth loop
 
-![FinWise growth loop](assets/growth-loop.svg)
+![FinWise growth loop](assets/growth-loop.png)
 
 **Why this compounds.** Step 5 is what makes it a loop rather than a funnel bent into a circle: every imported dataset improves FinWise's transaction categorisation and its benchmarks, so the *next* user's first modelling output arrives faster and reads sharper. And step 3–4 is the B2B distribution engine — small-business owners forward cash forecasts to accountants, co-founders and banks, and accountants carry the product to their whole client book. That's acquisition FinWise cannot buy with ad spend, which is precisely why paid spend has plateaued.
 

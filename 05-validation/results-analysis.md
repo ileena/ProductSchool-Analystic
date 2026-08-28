@@ -12,7 +12,7 @@
 
 ## Headline
 
-![Reading another team's A/B result](assets/experiment-results.svg)
+![Reading another team's A/B result](assets/experiment-results.png)
 
 **No metric in this test reaches significance, and the primary metric moved in the wrong direction.** Version B converted 6 of 10 versus A's 7 of 10.
 

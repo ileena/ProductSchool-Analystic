@@ -23,7 +23,7 @@ Carried over from M1: the hypothesis is that trial users never import their own 
 
 ## The data pattern
 
-![FinWise trial funnel and conversion split](assets/activation-funnel.svg)
+![FinWise trial funnel and conversion split](assets/activation-funnel.png)
 
 ### The funnel
 
