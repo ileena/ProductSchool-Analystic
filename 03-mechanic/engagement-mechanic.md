@@ -28,7 +28,7 @@ A live score on the user's forecast that **decays as their data goes stale**, an
 
 ## Wireframe
 
-![Forecast Confidence — habit loop and screens](assets/forecast-confidence-wireframe.svg)
+![Forecast Confidence — habit loop and screens](assets/forecast-confidence-wireframe.png)
 
 ## Rationale
 

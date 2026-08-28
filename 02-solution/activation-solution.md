@@ -27,7 +27,7 @@ The winner isn't the metric that looks best on a slide — it's the one that spl
 
 ## Onboarding prototype
 
-![FinWise onboarding, five screens](assets/onboarding-flow.svg)
+![FinWise onboarding, five screens](assets/onboarding-flow.png)
 
 Five screens, sign-up to Aha. Every screen that didn't move a user toward the import was cut — including the feature tour, the team-invite step and the plan selector, all of which now happen after the first modelling output.
 
